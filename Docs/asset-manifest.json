@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4c0314c.css",
+    "main.js": "/static/js/main.aa68bf29.js",
+    "static/js/787.6ba3a324.chunk.js": "/static/js/787.6ba3a324.chunk.js",
+    "static/media/Champions-league.jpg": "/static/media/Champions-league.5efebe5fd2b025e45cea.jpg",
+    "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/index.html",
+    "main.f4c0314c.css.map": "/static/css/main.f4c0314c.css.map",
+    "main.aa68bf29.js.map": "/static/js/main.aa68bf29.js.map",
+    "787.6ba3a324.chunk.js.map": "/static/js/787.6ba3a324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c0314c.css",
+    "static/js/main.aa68bf29.js"
+  ]
+}
